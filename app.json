@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "skypassTrip",
+    "slug": "skypassTrip",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
